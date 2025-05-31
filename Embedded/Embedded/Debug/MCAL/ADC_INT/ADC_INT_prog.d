@@ -1,0 +1,12 @@
+MCAL/ADC_INT/ADC_INT_prog.d MCAL/ADC_INT/ADC_INT_prog.o: \
+ ../MCAL/ADC_INT/ADC_INT_prog.c ../MCAL/ADC_INT/../../LIB/STD_TYPES.h \
+ ../MCAL/ADC_INT/../../LIB/BIT_MATH.h ../MCAL/ADC_INT/ADC_INT_reg.h \
+ ../MCAL/ADC_INT/ADC_INT_interface.h
+
+../MCAL/ADC_INT/../../LIB/STD_TYPES.h:
+
+../MCAL/ADC_INT/../../LIB/BIT_MATH.h:
+
+../MCAL/ADC_INT/ADC_INT_reg.h:
+
+../MCAL/ADC_INT/ADC_INT_interface.h:

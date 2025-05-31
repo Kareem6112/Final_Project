@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SPI", "SPI\SPI.cproj", "{469F5145-C8C1-40F7-B0B2-1BE45809211C}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SPI2", "SPI2\SPI2.cproj", "{A5C7E8C0-B884-4EE3-A836-6627401394B2}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Embedded", "Embedded\Embedded.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469F5145-C8C1-40F7-B0B2-1BE45809211C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{469F5145-C8C1-40F7-B0B2-1BE45809211C}.Debug|AVR.Build.0 = Debug|AVR
+		{469F5145-C8C1-40F7-B0B2-1BE45809211C}.Release|AVR.ActiveCfg = Release|AVR
+		{469F5145-C8C1-40F7-B0B2-1BE45809211C}.Release|AVR.Build.0 = Release|AVR
+		{A5C7E8C0-B884-4EE3-A836-6627401394B2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A5C7E8C0-B884-4EE3-A836-6627401394B2}.Debug|AVR.Build.0 = Debug|AVR
+		{A5C7E8C0-B884-4EE3-A836-6627401394B2}.Release|AVR.ActiveCfg = Release|AVR
+		{A5C7E8C0-B884-4EE3-A836-6627401394B2}.Release|AVR.Build.0 = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
